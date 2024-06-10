@@ -11,7 +11,7 @@ header-includes:
 \centering
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.5\textwidth]{logo.pdf}
+\includegraphics[width=0.5\textwidth]{Preet-Audit-Logo.pdf}
 \end{figure}
 \vspace{2cm} % Corrected line
 {\Huge\bfseries Protocol Audit Report\par}
